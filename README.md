@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/34194789/71447857-daaeba00-2712-11ea-982b-119577b02ff0.png">
+</p>
+
 # Code Project Icon
 
 A minimal application intended to facilitily write codes with VSCode editor.
@@ -10,6 +14,9 @@ Case you just want use:
 1. Make the download compress or clone this project.
 2. Decompress the unique file compress.
 3. Run the application and verify navbar search for icon the application.
+
+# Plataform
+Windows x32 - x64.
 
 # Version
 
