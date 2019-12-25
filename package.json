@@ -1,12 +1,12 @@
 {
-  "name": "electron-quick-start",
+  "name": "Code Project",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "A minimal application for facilitily the life of programers",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/jonnasnovaes/code-project-icon",
   "keywords": [
     "Electron",
     "quick",
@@ -14,8 +14,8 @@
     "tutorial",
     "demo"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "Jhonnata Novaes",
+  "license": "MIT",
   "devDependencies": {
     "electron": "^7.1.7"
   },
