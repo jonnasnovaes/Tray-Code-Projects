@@ -31,6 +31,9 @@ Windows x32 - x64.
 * cross-spawn: ^7.0.1
 * electron-store: ^5.1.0
 
+# Credits
+
+The creation of that application do possible thanks to https://github.com/Rocketseat/youtube-challenge-electron-tray
 
 # License
 
