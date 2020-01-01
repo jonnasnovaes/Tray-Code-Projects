@@ -25,7 +25,7 @@ Windows x32 - x64.
 
 # Dependences
 
-* yarn
+* yarn: ^1.21.1
 * node.js: ^8.0.0
 * electron: ^7.1.7
 * cross-spawn: ^7.0.1
