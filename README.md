@@ -33,7 +33,7 @@ Windows x32 - x64.
 
 # Credits
 
-The creation of that application do possible thanks to https://github.com/Rocketseat/youtube-challenge-electron-tray
+The creation of that application do possible thanks to examples finded in: https://github.com/Rocketseat/youtube-challenge-electron-tray
 
 # License
 
