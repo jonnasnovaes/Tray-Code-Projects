@@ -1,10 +1,11 @@
 {
   "name": "codeproject",
-  "version": "1.0.0",
-  "description": "A minimal application for facilitily the life of programers",
+  "version": "2.0.0",
+  "description": "Code Project é uma aplicação voltada para o auxílio do gerenciamento de projetos para os desenvolvedores que utilizam o VSCode como sua IDE principal.",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "build-linux": "electron-builder --linux"
   },
   "repository": "https://github.com/jonnasnovaes/code-project-icon",
   "keywords": [
@@ -14,13 +15,25 @@
     "tutorial",
     "demo"
   ],
-  "author": "Jhonnata Novaes",
+  "author": "Jhonnata Novaes <jhonnata38@hotmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^7.1.7"
+    "electron": "^7.3.3",
+    "electron-builder": "^22.8.0"
   },
   "dependencies": {
     "cross-spawn": "^7.0.1",
-    "electron-store": "^5.1.0"
+    "electron-store": "^5.1.0",
+    "g": "^2.0.1"
+  },
+  "build": {
+    "appId": "com.novaes.code-project-icom",
+    "executableName": "Code Projects",
+    "linux": {
+      "target": [
+        "deb"
+      ],
+      "category": "Utility"
+    }
   }
 }
